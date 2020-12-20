@@ -14,7 +14,8 @@ Arduino Alarm is the second Arduino pratical work. The goal is to build an intru
 	
 ## :computer: Technologies
 ArduinoAlarm is created with:
-* Python (opencv - numpy)
+* Arduino
+* C++
 	
 ## :cd: Setup
 Clone these files anywhere and browse the code.
